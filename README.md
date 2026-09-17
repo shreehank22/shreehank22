@@ -4,7 +4,7 @@ MS student in Robotics Engineering at Worcester Polytechnic Institute (WPI), spe
 
 *"settling, not by accident"*
 
-- 🔭 Currently: Directed Research at the WPI Manipulation Lab — force manipulability analysis on tendon-driven continuum robots
+- 🔭 Currently: Directed Research at the WPI Manipulation and Environmental Robotics Lab, conducting research on force manipulability analysis on tendon-driven continuum robots
 - 🌱 Coursework: Robot Control, Vision-Based Robotic Manipulation
 - 🎓 B.Tech, Instrumentation & Control Engineering, NIT Tiruchirappalli — CGPA 8/10, NITT Undergraduate STEM Research Fellow
 - 📫 [Portfolio](https://shreehank22.github.io/) · [LinkedIn](https://www.linkedin.com/in/shreehankate) · shreehan1912@gmail.com
