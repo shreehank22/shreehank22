@@ -2,7 +2,7 @@
 
 MS student in Robotics Engineering at Worcester Polytechnic Institute (WPI), specializing in control theory, optimization, and learning for physical systems (robotic manipulators, quadrotors etc). Transitioned from a B.Tech in Instrumentation & Control Engineering (NIT Tiruchirappalli), with doctoral work in manipulation and whole-body control as the next step.
 
-*"settling, not by accident"*
+*"Sic Parvis Magna"*
 
 - 🔭 Currently: Directed Research at the WPI Manipulation and Environmental Robotics Lab, conducting research on force manipulability analysis on tendon-driven continuum robots
 - 🌱 Coursework: Robot Control, Vision-Based Robotic Manipulation
