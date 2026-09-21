@@ -33,7 +33,7 @@ Manipulator kinematics & dynamics · impedance/whole-body control · trajectory 
 **[Perception & Control Pipeline for Redundant Manipulators](https://github.com/shreehank22/Bathsheba-Project-roboai)**
 6-DOF Cartesian impedance controller for the Franka Emika Panda (3.8mm peak / 0.14mm steady-state tracking error), two-camera 3D localization (1.4mm, 0.1° yaw), pick-and-place at 100% success across 50 trials. `MuJoCo` `Python` `ROS 2`
 
-**7-DOF Redundant Manipulator for Space Applications** — B.Tech thesis, xTerra Robotics deliverable
+**[7-DOF Redundant Manipulator for Space Applications](https://github.com/shreehank22/BTech-Thesis-Manipulator-Design)** — B.Tech thesis, xTerra Robotics deliverable
 DH kinematics, NSGA-II multi-objective link-length optimization (2.825m reach, 79.9% well-conditioned workspace), RNEA torque analysis, damped-least-squares IK with adaptive Gaussian damping (100% convergence). `MATLAB` `MuJoCo` `Python`
 
 **[Adaptive Control of Quadrotor UAVs](https://github.com/shreehank22/Adaptive-PID-Control-for-Quadrotor-UAVs-Using-Feedback-Linearization-and-Deep-Reinforcement-Learning)**
